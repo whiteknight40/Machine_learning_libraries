@@ -10,4 +10,4 @@ A curated collection of hands-on Jupyter Notebooks showcasing core **supervised*
 | **Polynomial Regression.ipynb** | Capturing non-linear relationships via polynomial features |
 | **Binary Logistic Regression.ipynb** | Classification between two target classes |
 | **Multi-Classification Regression.ipynb** | Multi-class classification using one-vs-rest logistic regression |
-| **K-means Clustering.ipynb** | Unsupervised learning techniques like k‑means, PCA, autoencoders |
+| **K-means Clustering.ipynb** | Unsupervised learning techniques like k‑means clustering |
